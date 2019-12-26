@@ -48,3 +48,7 @@ print(b)
 #### 5b) What will `print(b)` print to the screen?
 
 #### 5c) Explain why the output of `print(a)` and `print(b)` are different.
+
+---
+
+### [Quiz Answers](answers/quiz1-answers.md) (No Peeking!)
